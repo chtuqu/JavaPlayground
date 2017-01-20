@@ -13,7 +13,6 @@ public class MeaningOfThis {
             }
         };
         r.run();
-        // random change
     }
     public static void main(String[] args) {
         MeaningOfThis m = new MeaningOfThis();
