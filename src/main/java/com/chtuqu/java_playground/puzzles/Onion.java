@@ -1,4 +1,4 @@
-package com.chtuqu.java_puzzles;
+package com.chtuqu.java_playground.puzzles;
 
 // 1. What will the code print?
 // 2. What will the code print if getData() got deleted from Layer?

@@ -1,4 +1,4 @@
-package com.chtuqu.java_puzzles;
+package com.chtuqu.java_playground.puzzles;
 
 public class ExceptionInThrow {
     static { /*throw new RuntimeException();*/ } // does not compile
