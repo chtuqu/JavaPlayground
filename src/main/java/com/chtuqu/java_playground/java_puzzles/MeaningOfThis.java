@@ -1,4 +1,4 @@
-package com.chtuqu.java_playground.puzzles;
+package com.chtuqu.java_playground.java_puzzles;
 
 public class MeaningOfThis {
     public final int value = 4;
